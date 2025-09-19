@@ -1,0 +1,9 @@
+C:\Users\OsamaNaser\source\repos\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.dll
+C:\Users\OsamaNaser\source\repos\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.pdb
+C:\Users\OsamaNaser\source\repos\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.dll
+C:\Users\OsamaNaser\source\repos\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+C:\Users\OsamaNaser\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\OsamaNaser\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\OsamaNaser\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusi.7D6D57CA.Up2Date
+C:\Users\OsamaNaser\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.dll
+C:\Users\OsamaNaser\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.pdb

@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|c:\\users\\osamanaser\\source\\repos\\dvld\\people\\managepeoplescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|solutionrelative:people\\managepeoplescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\licenses\\local\\issuelicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|solutionrelative:licenses\\local\\issuelicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\licenses\\local\\issuelicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|solutionrelative:licenses\\local\\issuelicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED46A78-5A36-45F8-8677-EB5540972A59}|..\\DVLDBusinessLayer\\DVLDBusinessLayer.csproj|c:\\users\\osamanaser\\source\\repos\\dvldbusinesslayer\\clsdriversandlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED46A78-5A36-45F8-8677-EB5540972A59}|..\\DVLDBusinessLayer\\DVLDBusinessLayer.csproj|c:\\users\\osamanaser\\source\\repos\\dvldbusinesslayer\\clsmanageapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED46A78-5A36-45F8-8677-EB5540972A59}|..\\DVLDBusinessLayer\\DVLDBusinessLayer.csproj|c:\\users\\osamanaser\\source\\repos\\dvldbusinesslayer\\clsmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED46A78-5A36-45F8-8677-EB5540972A59}|..\\DVLDBusinessLayer\\DVLDBusinessLayer.csproj|c:\\users\\osamanaser\\source\\repos\\dvldbusinesslayer\\clsmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B42891-A14F-467A-AE92-8006E8E4EBB4}|..\\DVLDDataAccessLayer\\DVLDDataAccessLayer.csproj|c:\\users\\osamanaser\\source\\repos\\dvlddataaccesslayer\\clsdriversandlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B42891-A14F-467A-AE92-8006E8E4EBB4}|..\\DVLDDataAccessLayer\\DVLDDataAccessLayer.csproj|c:\\users\\osamanaser\\source\\repos\\dvlddataaccesslayer\\clsmanageapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B42891-A14F-467A-AE92-8006E8E4EBB4}|..\\DVLDDataAccessLayer\\DVLDDataAccessLayer.csproj|c:\\users\\osamanaser\\source\\repos\\dvlddataaccesslayer\\clsmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B42891-A14F-467A-AE92-8006E8E4EBB4}|..\\DVLDDataAccessLayer\\DVLDDataAccessLayer.csproj|c:\\users\\osamanaser\\source\\repos\\dvlddataaccesslayer\\clsmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\tests\\frmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|solutionrelative:tests\\frmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\tests\\frmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02B2D2AF-0211-4DD4-8857-A90884333904}|DVLD.csproj|solutionrelative:tests\\frmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagePeopleScreen.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\People\\ManagePeopleScreen.cs",
+              "RelativeDocumentMoniker": "People\\ManagePeopleScreen.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\People\\ManagePeopleScreen.cs",
+              "RelativeToolTip": "People\\ManagePeopleScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:57:16.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssueLicenseFirstTime.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\Licenses\\Local\\IssueLicenseFirstTime.cs",
+              "RelativeDocumentMoniker": "Licenses\\Local\\IssueLicenseFirstTime.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\Licenses\\Local\\IssueLicenseFirstTime.cs",
+              "RelativeToolTip": "Licenses\\Local\\IssueLicenseFirstTime.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:10:07.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IssueLicenseFirstTime.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\Licenses\\Local\\IssueLicenseFirstTime.cs",
+              "RelativeDocumentMoniker": "Licenses\\Local\\IssueLicenseFirstTime.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\Licenses\\Local\\IssueLicenseFirstTime.cs [Design]",
+              "RelativeToolTip": "Licenses\\Local\\IssueLicenseFirstTime.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:10:05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsDriversAndLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDBusinessLayer\\clsDriversAndLicenses.cs",
+              "RelativeDocumentMoniker": "..\\DVLDBusinessLayer\\clsDriversAndLicenses.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDBusinessLayer\\clsDriversAndLicenses.cs",
+              "RelativeToolTip": "..\\DVLDBusinessLayer\\clsDriversAndLicenses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:07:04.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsManageApplication.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDBusinessLayer\\clsManageApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLDBusinessLayer\\clsManageApplication.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDBusinessLayer\\clsManageApplication.cs",
+              "RelativeToolTip": "..\\DVLDBusinessLayer\\clsManageApplication.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAlwLEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:03:29.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsManagePeople.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDBusinessLayer\\clsManagePeople.cs",
+              "RelativeDocumentMoniker": "..\\DVLDBusinessLayer\\clsManagePeople.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDBusinessLayer\\clsManagePeople.cs",
+              "RelativeToolTip": "..\\DVLDBusinessLayer\\clsManagePeople.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:06:53.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsManageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDBusinessLayer\\clsManageUsers.cs",
+              "RelativeDocumentMoniker": "..\\DVLDBusinessLayer\\clsManageUsers.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDBusinessLayer\\clsManageUsers.cs",
+              "RelativeToolTip": "..\\DVLDBusinessLayer\\clsManageUsers.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:06:50.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsDriversAndLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDDataAccessLayer\\clsDriversAndLicenses.cs",
+              "RelativeDocumentMoniker": "..\\DVLDDataAccessLayer\\clsDriversAndLicenses.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDDataAccessLayer\\clsDriversAndLicenses.cs",
+              "RelativeToolTip": "..\\DVLDDataAccessLayer\\clsDriversAndLicenses.cs",
+              "ViewState": "AgIAAKwEAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:06:41.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsManagePeople.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDDataAccessLayer\\clsManagePeople.cs",
+              "RelativeDocumentMoniker": "..\\DVLDDataAccessLayer\\clsManagePeople.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDDataAccessLayer\\clsManagePeople.cs",
+              "RelativeToolTip": "..\\DVLDDataAccessLayer\\clsManagePeople.cs",
+              "ViewState": "AgIAAPABAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:06:33.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsManageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDDataAccessLayer\\clsManageUsers.cs",
+              "RelativeDocumentMoniker": "..\\DVLDDataAccessLayer\\clsManageUsers.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDDataAccessLayer\\clsManageUsers.cs",
+              "RelativeToolTip": "..\\DVLDDataAccessLayer\\clsManageUsers.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:06:30.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTests.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\Tests\\frmTests.cs",
+              "RelativeDocumentMoniker": "Tests\\frmTests.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\Tests\\frmTests.cs",
+              "RelativeToolTip": "Tests\\frmTests.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAqwKwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T20:02:31.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmTests.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\Tests\\frmTests.cs",
+              "RelativeDocumentMoniker": "Tests\\frmTests.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLD\\Tests\\frmTests.cs [Design]",
+              "RelativeToolTip": "Tests\\frmTests.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T09:09:18.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsManageApplication.cs",
+              "DocumentMoniker": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDDataAccessLayer\\clsManageApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLDDataAccessLayer\\clsManageApplication.cs",
+              "ToolTip": "C:\\Users\\OsamaNaser\\source\\repos\\DVLDDataAccessLayer\\clsManageApplication.cs",
+              "RelativeToolTip": "..\\DVLDDataAccessLayer\\clsManageApplication.cs",
+              "ViewState": "AgIAAFYFAAAAAAAAAIAywBEEAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:13:22.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
