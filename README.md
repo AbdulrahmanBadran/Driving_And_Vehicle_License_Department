@@ -48,4 +48,5 @@ The system streamlines operations for license issuance, renewal, suspension/rele
 1. Clone the repository  
 2. Restore the database using the included SQL script in `DatabaseScripts` file  
 3. Open the solution in **Visual Studio**  
-4. Run the project  
+4. Run the project
+5. Username: abood123 , Password: abood123 
