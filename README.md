@@ -16,7 +16,7 @@ The system streamlines operations for license issuance, renewal, suspension/rele
 
 ### Authentication & Authorization  
 - Secure login system  
-- Role-based access  
+ 
 
 ### Database Operations  
 - Full **CRUD** support  
