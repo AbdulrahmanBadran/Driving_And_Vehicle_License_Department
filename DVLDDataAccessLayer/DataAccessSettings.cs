@@ -10,7 +10,7 @@ namespace DVLDDataAccessLayer
     {
         public static string connectionString()
             {
-         string connectionString = "server=.;Database=DVLD;user ID=sa;password=sa123456";
+         string connectionString = "server=.;Database=DVLD;user ID=;password=";
         return connectionString;
         }
 
