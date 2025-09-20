@@ -47,6 +47,10 @@ The system streamlines operations for license issuance, renewal, suspension/rele
 ## ⚡ Getting Started  
 1. Clone the repository  
 2. Restore the database using the included SQL script in `DatabaseScripts` file  
-3. Open the solution in **Visual Studio**  
-4. Run the project
-5. Username: abood123 , Password: abood123 
+3. Open the solution in **Visual Studio**
+4. Go to 'DataAccessSettings' Class and put your **Database** Username And Password
+<img width="351" height="497" alt="image" src="https://github.com/user-attachments/assets/7f19606f-d400-4891-add9-9b3362e55761" />
+ <img width="1512" height="777" alt="image" src="https://github.com/user-attachments/assets/9141e347-e400-4631-b69a-0337d9b0dabc" />
+
+5. Run the project
+6. Username: abood123 , Password: abood123 
